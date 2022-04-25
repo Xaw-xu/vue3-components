@@ -1,8 +1,6 @@
 {
   "name": "root",
-  "publishConfig": {
-    "access": "public"
-  },
+  "private":"true",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Xaw-xu/vue3-components"
