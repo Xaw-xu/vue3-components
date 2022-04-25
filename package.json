@@ -1,5 +1,13 @@
 {
   "name": "root",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xaw-xu/vue3-components"
+  },
   "workspaces": [
     "packages/*"
   ],
