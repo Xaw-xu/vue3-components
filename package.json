@@ -1,7 +1,6 @@
 {
   "name": "root",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "repository": {
