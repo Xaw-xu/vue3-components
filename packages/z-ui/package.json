@@ -5,13 +5,13 @@
   "author": "xkq <xukaiquan@zalldigital.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "../../lib/index.esm.js",
+  "main": "index.esm.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
   },
   "files": [
-    "index.ts"
+    "index.esm.js"
   ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
